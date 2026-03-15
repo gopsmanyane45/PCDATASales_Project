@@ -1,0 +1,20 @@
+PC Data 
+ CSV 
+  split the columns 
+check whats in the columns - analyse the data 
+check hdd 
+check type of product 
+
+as a DE you need to make sure that he data is clean 
+the data is messy 
+the numbers have no format at all 
+try to analyse the data on excel - just an overview 
+
+High Prority why 
+PC Market price ? means what 
+you do this to get the DATA DOMAIN = understanding the data set what it is about 
+
+
+Summary of Columns 
+PC Make --- 
+RAM 
